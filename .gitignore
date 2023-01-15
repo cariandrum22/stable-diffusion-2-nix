@@ -1,0 +1,5 @@
+.direnv
+.envrc
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+result
